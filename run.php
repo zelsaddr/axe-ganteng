@@ -3,8 +3,10 @@ require __DIR__."/module.php";
 require __DIR__."/lib_mail.php";
 
 $sites = array(
-    "https://itemp.email/",
-    "http://www.mailly.xyz/"
+    "http://www.fake-mail.net/",
+    "http://temp-email.info/",
+    "https://megamail.cx/",
+    "https://tempmailid.com/"
 );
     $headers = explode("\n", "Host: gantengcaraaxe.com
 User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.9 Safari/537.36
